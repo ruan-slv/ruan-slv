@@ -19,7 +19,7 @@ Atualmente me encontro graduando em Sistema de Informação, mas pretendo extend
 | :--        | :--                |
 | 📈 Alta    | Shell, Wget e cURL |
 | 📊 Média   | C/C++ e Assembly   |
-| 📉 Baixa   | Lazyvim            |
+| 📉 Baixa   | Lazyvim e Temux    |
 
 Esta tabela pode sofrer alterações na prioridade caso necessário aplicar uma destas ferramentas em projetos reais.
 
