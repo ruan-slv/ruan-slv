@@ -38,7 +38,7 @@ Esta tabela pode sofrer alterações na prioridade caso necessário aplicar uma 
   </tr>
 </table>
 
-### <a href="https://github.com/ruan-slv/Agrohub-API.git">E-feira</a>
+### <a href="https://github.com/ruan-slv/E-feira.git">E-feira</a>
 <table>
   <tr>
     <td align="center" valign="middle" width="160px">
