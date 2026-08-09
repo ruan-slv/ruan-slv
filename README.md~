@@ -10,45 +10,6 @@ Tenho capacitação, responsabilidade e comprometimento pela área de infraestru
 * **DevOps & Infraestrutura:** Docker, Git, Linux e Bash
 * **Metodologias:** Scrum, Kanban e XP
 
-## 🚀 Projetos em Destaque
-### <a href="https://play.google.com/store/apps/details?id=com.bibleAplication.app"> Bíblia & Harpa</a>
-<table>
-  <tr>
-    <td align="center" valign="middle" width="160px">
-      <img src="./blible.png" alt="Logo Bíblia e Harpa" width="120px" style="border-radius: 20%;"/>
-    </td>
-    <td valign="top">
-      <p>Aplicativo Mobile para leitura Bíblica e conteúdos sagrados com meta de expansão para Multiplataforma, assim consolidando o público android e almejando alcançar parte do público IOS.</p>
-      <p><b>🚀 Tecnologias:</b> Flutter, SharedPreferences, Hive e shell</p>
-      <p><b>🚀 Arquitetura:</b> Refatorando para MVVM + Riverpod</p>
-    </td>
-  </tr>
-</table>
-
-### <a href="https://github.com/ruan-slv/bashub.git">Bashub</a>
-<table>
-  <tr>
-    <td align="center" valign="middle" width="160px">
-      <img src="./bashub-logo-bkp.png" alt="Logo Agrohub" width="120px" style="border-radius: 20%;"/>
-    </td>
-    <td valign="top">
-      <p>Fork do <a href="https://github.com/rfdouro/DEVAPP.git">DEVAPP</a>, tem como objetivo fornecer um executável CLI para instalações e execução de ferramentas e programas durante o processo de desenvolvimento.</p>
-      <p><b>🚀 Tecnologias:</b> Shell</p>
-    </td>
-  </tr>
-</table>
-
-### <a href="https://github.com/ruan-slv/docs.git">Docs</a>
-<table>
-  <tr>
-    <td align="center" valign="middle" width="160px">
-      <img src="./docs-logo.png" alt="Logo Agrohub" width="120px" style="border-radius: 20%;"/>
-    </td>
-    <td valign="top">
-      <p>Repositório para centralização de documentos sobre ferramentas de desenvolvimento com proposta de facilitar buscas para aprendizado e afins. </p>
-    </td>
-  </tr>
-</table>
 
 ## 📊 Formação e Certificações
 * **Graduação:** Bacharelado em Sistemas de Informação – Unisales *(Em andamento)*

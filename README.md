@@ -1,6 +1,5 @@
 # Ruan Gustavo Soares da Silva
 
-Fiz um curso de informatica básica quando tinha 15 anos, acabei gostando e hoje estou aqui me perguntando porque meu projeto não roda.
 Tenho capacitação, responsabilidade e comprometimento pela área de infraestrutura e desenvolvimento backend, a qual venho buscando novas formas de evoluir. Gosto muito da área de cibersegurança, mas estou buscando primeiro uma base sólida de programação, aos poucos eu vou indo migrando. Tenho vontate e planejamento para extender minha graduação e futuramente fazer uma pós graduação em segurança da informação.
 
 ## 🛠️ Stack
