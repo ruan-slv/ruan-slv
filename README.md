@@ -1,14 +1,18 @@
 # Ruan Gustavo Soares da Silva
 
-Tenho capacitação, responsabilidade e comprometimento pela área de infraestrutura e desenvolvimento backend, a qual venho buscando novas formas de evoluir. Gosto muito da área de cibersegurança, mas estou buscando primeiro uma base sólida de programação, aos poucos eu vou indo migrando. Tenho vontate e planejamento para extender minha graduação e futuramente fazer uma pós graduação em segurança da informação.
+## 👋 Introdução
+
+Tive meu primeiro contato com Informática aos 15 anos e desde então venho despertando mais interesse na área de tecnologia. Busco especialização na área de backend pensando em uma migração para área de cibersecurity futuramente, pois estou buscando fundamentação técnica para entender mais sobre as aplicações e boas práticas antes de chegar na melhor parte 🤓.
+
+Fora dos meus ambientes de estudos e trabalho, eu gosto de sair com a familía, jogar, assistir animes e pesquisar sobre carros de drift.
 
 ## 🛠️ Stack
-* **Backend:** Java/Kotlin e Python
-* **Frontend:** Flutter e Kotlin Multiplatforma
+* **Backend:** Java e Python
+* **Frontend:** Flutter
 * **Bancos de Dados:** PostgreSQL
 * **DevOps & Infraestrutura:** Docker, Git, Linux e Bash
 * **Metodologias:** Scrum, Kanban e XP
-
+* **Outros:** Responsabilidade e Fácil Adaptação
 
 ## 📊 Formação e Certificações
 * **Graduação:** Bacharelado em Sistemas de Informação – Unisales *(Em andamento)*
@@ -16,7 +20,10 @@ Tenho capacitação, responsabilidade e comprometimento pela área de infraestru
 * **Idiomas:** Inglês Intermediário – Wizard *(Em andamento)*
 * **Complementares:** Introdução ao Hacking e Pentest (Solyd), Design Sprint & Copilot (Enap), Linux (Curso em Vídeo).
 
----
+## Projetos
+* [Bíblia & Harpa](https://github.com/ruan-slv/Biblia-Harpa.git)
+* [Bashub](https://github.com/ruan-slv/bashub.git)
+* [Intern](https://github.com/ruan-slv/intern.git)
 
 ## Contatos
 * **LinkedIn:** [in/ruanslv16](https://linkedin.com/in/ruanslv16)
