@@ -1,15 +1,12 @@
-# Ruan Gustavo Soares da Silva
-
 ## Sobre mim
-Eu começei a ter o meu primeiro contato com a área de tecnologia aos 15 anos quando iniciei um curso de informática básica junto com a minha mãe e o meu irmão. A partir desse ponto eu começei a despertar interesse na programação, pois descobri que tinha como fazer "joguinhos", porém minha prioridade passou de "joguinhos" para resolver problemas, principalmente com a área que eu gostaria de seguir carreira, sendo backend com traços de cibersegurança, acredito que o termo correto seja "DevSecOps", mas caso esteja errado, me corrijam.
-<br>
-Agora saindo do ambiente de trabalho, o meu passa tempo como um bom nerd de T.I, é fazer meus projetos pessoais, como meu aplicativo na playstore, um projeto de intranet para uso próprio e alguns projetos que penso em desenvolver para lazer, como uma plataforma de animes pirat... digo, oficial. Além disso, minha vida não se resume a computadores, eu também gosto de passar o tempo com a minha familía, gosto de carros, principalmente os de drift, mas também curto as quadradas turbão na maldade.
+<p align="justify">Eu começei a ter o meu primeiro contato com a área de tecnologia aos 15 anos quando iniciei um curso de informática básica junto com a minha mãe e o meu irmão. A partir desse ponto eu começei a despertar interesse na programação, pois descobri que tinha como fazer "joguinhos", porém minha prioridade passou de "joguinhos" para resolver problemas, principalmente com a área que eu gostaria de seguir carreira, sendo backend com traços de cibersegurança, acredito que o termo correto seja "DevSecOps".</p>
+<p align="justify">Agora saindo do ambiente de trabalho, o meu passa tempo como um bom nerd de T.I, é fazer meus projetos pessoais, como meu aplicativo na playstore, um projeto de intranet para uso próprio e alguns projetos que penso em desenvolver para lazer, como uma plataforma de animes pirat... digo, oficial. Além disso, minha vida não se resume a computadores, eu também gosto de passar o tempo com a minha familía, gosto de carros, principalmente os de drift, mas também curto as quadradas turbão na maldade.</p>
 
 ## 🛠️ Minha Stack
-* **Backend:** Java e Python
+* **Backend:** Java, Node e Python
 * **Frontend:** Flutter e React
-* **Bancos de Dados:** PostgreSQL e MongoDB
-* **DevOps & Infraestrutura:** Docker, Git, Linux e Bash
+* **Bancos de Dados:** PostgreSQL, Mysql/MariaDB e MongoDB
+* **DevOps & Infraestrutura:** Docker, Git, Linux e Shell
 * **Metodologias:** Scrum, Kanban e XP
 * **Outros:** Responsabilidade e Fácil Adaptação
 
